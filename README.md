@@ -9,3 +9,4 @@
 <h3>When Access Token expires, will throw a error</h3>
 <img src="./public/expires.png"/>
 <h3>Using Refresh Token, we can get a new valid Access Token and a new Refresh Token, making the old one invalid (for security)</h3>
+<img src="./public/refresh.png"/>
