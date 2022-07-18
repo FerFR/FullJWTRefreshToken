@@ -1,5 +1,3 @@
-<h1>JWT Full Implementation</h1>
-
 <h3>After Login you receive your Access and Refresh Token</h3>
 <img src="./public/login.png"/>
 <h3>Now, we can put your Access Token on auth headers</h3>
